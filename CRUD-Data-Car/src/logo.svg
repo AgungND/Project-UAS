@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3">
+  <g fill="#61DAFB">
+    {/* Ganti image dengan path menuju logo.jpeg */}
+    <image xlinkHref="logo.jpeg" width="841.9" height="595.3" />
+    {/* ... Sisanya tetap sama ... */}
+    <circle cx="420.9" cy="296.5" r="45.7" />
+    <path d="M520.5 78.1z" />
+  </g>
+</svg>
